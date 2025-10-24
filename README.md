@@ -22,7 +22,7 @@
 
 git clone https://github.com/Sahadat200k/InstaReporter
 
-cd INSTAGRAM-MASS-REPORTER-
+cd InstaReporter
 
 pip install tkinter
 
