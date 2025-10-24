@@ -1,4 +1,4 @@
-# ꧁🚩 जय श्री राम 🚩꧂
+# ꧁BONDED DITTO꧂
 
 # INSTAGRAM-MASS-REPORTER- 💀☠️
 ## INSTAGRAM MASS REPORTER TOOL SUPER FAST BAN ACCOUNT 🙏☠️💀
