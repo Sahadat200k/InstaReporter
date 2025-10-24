@@ -20,7 +20,7 @@
 ### INSTALLATION 
 ```
 
-git clone https://github.com/Shrijantiwari/INSTAGRAM-MASS-REPORTER-.git
+git clone https://github.com/Sahadat200k/InstaReporter
 
 cd INSTAGRAM-MASS-REPORTER-
 
