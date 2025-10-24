@@ -271,7 +271,7 @@ def run_gui():
             root.after(1000, update_background)  # Change every 1 second
 
         def typewriter_effect():
-            full_text = "SHRIJAN TIWARI"
+            full_text = "BONDED DITTO"
             current_text = [""]
 
             def type_forward(pos=0):
